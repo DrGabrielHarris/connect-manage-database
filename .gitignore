@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*-checkpoint.ipynb
 
 # IPython
 profile_default/
@@ -127,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode project settings
+.vscode
+*.code-workspace
+.code-workspace
+debug.log
+
+# files
+.DS_Store
